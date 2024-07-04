@@ -35,7 +35,8 @@ POSTMAN PRUEBA
 
 
 
-![image](https://github.com/HuGoVR13/API_WEB_SQL/assets/99736512/a8f4b9b1-a9bf-4e45-87e5-026c02281c55)
+![image](https://github.com/HuGoVR13/API_WEB_SQL/assets/99736512/84054607-135a-4650-8ede-b985929ca424)
+
 
 
 
